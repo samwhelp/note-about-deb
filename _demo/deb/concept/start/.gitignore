@@ -1,0 +1,6 @@
+*.deb
+debian-binary
+control.tar.xz
+data.tar.xz
+DEBIAN
+hello
