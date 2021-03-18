@@ -212,7 +212,7 @@ Original-Maintainer: Santiago Vila <sanvila@debian.org>
 ```
 
 
-### control.tar.xz
+### data.tar.xz
 
 run
 
