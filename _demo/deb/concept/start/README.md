@@ -95,8 +95,8 @@ README.md
 | File |
 | --- |
 | [debian-binary](#debian-binary) |
-| [control.tar.xz](#control.tar.xz) |
-| [data.tar.xz](#data.tar.xz) |
+| [control.tar.xz](#controltarxz) |
+| [data.tar.xz](#datatarxz) |
 
 
 ### debian-binary
