@@ -7,7 +7,7 @@ has_children: true
 # 連結
 
 
-## Lua
+## The Debian Administrator's Handbook
 
 * [The Debian Administrator's Handbook (Debian管理者手冊)](https://debian-handbook.info/) ([英文版](https://debian-handbook.info/browse/stable/)) ([中文版](https://debian-handbook.info/browse/zh-TW/stable/))
 
