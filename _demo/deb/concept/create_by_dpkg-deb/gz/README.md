@@ -108,3 +108,18 @@ show
 /usr/bin
 /usr/bin/demo
 ```
+
+## Remove
+
+run
+
+``` sh
+$ sudo dpkg -P demo
+```
+
+or run
+
+
+``` sh
+$ sudo dpkg -r demo
+```
