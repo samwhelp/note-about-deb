@@ -7,7 +7,7 @@
 ## 相關筆記
 
 * [Ubuntu Basic Skill](https://samwhelp.github.io/book-ubuntu-basic-skill/book/)
-
+* [Ubuntu 問答集](https://samwhelp.github.io/book-ubuntu-qna/)
 
 
 ## samwhelp
