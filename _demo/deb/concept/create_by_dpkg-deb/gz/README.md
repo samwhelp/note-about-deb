@@ -2,14 +2,9 @@
 
 ## Reference
 
-* https://debian-handbook.info/browse/stable/packaging-system.html#sect.binary-package-structure
-* https://debian-handbook.info/browse/zh-TW/stable/packaging-system.html#sect.binary-package-structure
-* $ man 1 [ar](http://manpages.ubuntu.com/manpages/focal/en/man1/ar.1.html)
-* $ man 1 [tar](http://manpages.ubuntu.com/manpages/focal/en/man1/tar.1.html)
-* $ man 5 [deb](http://manpages.ubuntu.com/manpages/focal/en/man5/deb.5.html)
-* $ man 5 [deb-old](http://manpages.ubuntu.com/manpages/focal/en/man5/deb-old.5.html)
+* $ man 1 [dpkg-deb](http://manpages.ubuntu.com/manpages/focal/en/man1/dpkg-deb.1.html)
+* $ man 1 [dpkg](http://manpages.ubuntu.com/manpages/focal/en/man1/dpkg.1.html)
 * $ man 5 [deb-control](http://manpages.ubuntu.com/manpages/focal/en/man5/deb-control.5.html)
-
 
 
 ## Prepare
@@ -37,7 +32,7 @@ $ file build/demo.deb
 show
 
 ```
-build/demo.deb: Debian binary package (format 2.0), with control.tar.gz, data compression gz/
+build/demo.deb: Debian binary package (format 2.0), with control.tar.gz, data compression gz
 ```
 
 run
@@ -64,7 +59,7 @@ show
 
 ```
  new Debian package, version 2.0.
- size 650 bytes: control archive=250 bytes.
+ size 624 bytes: control archive=238 bytes.
      129 bytes,     6 lines      control              
  Package: demo
  Version: 0.1

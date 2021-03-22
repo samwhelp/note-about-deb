@@ -1,5 +1,16 @@
 
 
+## Reference
+
+* https://debian-handbook.info/browse/stable/packaging-system.html#sect.binary-package-structure
+* https://debian-handbook.info/browse/zh-TW/stable/packaging-system.html#sect.binary-package-structure
+* $ man 1 [ar](http://manpages.ubuntu.com/manpages/focal/en/man1/ar.1.html)
+* $ man 1 [tar](http://manpages.ubuntu.com/manpages/focal/en/man1/tar.1.html)
+* $ man 5 [deb](http://manpages.ubuntu.com/manpages/focal/en/man5/deb.5.html)
+* $ man 5 [deb-old](http://manpages.ubuntu.com/manpages/focal/en/man5/deb-old.5.html)
+* $ man 5 [deb-control](http://manpages.ubuntu.com/manpages/focal/en/man5/deb-control.5.html)
+
+
 ## Prepare
 
 ``` sh
@@ -31,7 +42,7 @@ build/demo.deb: Debian binary package (format 2.0), with control.tar.xz, data co
 run
 
 ``` sh
-$ ar t build/demo.deb 
+$ ar t build/demo.deb
 ```
 
 show
@@ -59,6 +70,7 @@ show
  Architecture: all
  Description: This is a test package.
  Maintainer: developer <developer@hell.heaven>
+
 ```
 
 ## Install
@@ -100,6 +112,3 @@ show
 /usr/bin
 /usr/bin/demo
 ```
-
-
-
