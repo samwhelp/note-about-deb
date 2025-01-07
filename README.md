@@ -4,8 +4,8 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [note-about-deb](https://samwhelp.github.io/note-about-deb/) | [GitHub](https://github.com/samwhelp/note-about-deb) |
-| [note-about-apt](https://samwhelp.github.io/note-about-apt/) | [GitHub](https://github.com/samwhelp/note-about-apt) |
+| [Deb 探索筆記](https://samwhelp.github.io/note-about-deb/) | [GitHub](https://github.com/samwhelp/note-about-deb) |
+| [Apt 探索筆記](https://samwhelp.github.io/note-about-apt/) | [GitHub](https://github.com/samwhelp/note-about-apt) |
 
 
 
