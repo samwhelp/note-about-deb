@@ -5,6 +5,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Deb 探索筆記](https://samwhelp.github.io/note-about-deb/) | [GitHub](https://github.com/samwhelp/note-about-deb) |
+| [Dpkg 探索筆記](https://samwhelp.github.io/note-about-dpkg/) | [GitHub](https://github.com/samwhelp/note-about-dpkg) |
 | [Apt 探索筆記](https://samwhelp.github.io/note-about-apt/) | [GitHub](https://github.com/samwhelp/note-about-apt) |
 
 
