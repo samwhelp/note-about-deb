@@ -8,9 +8,12 @@ has_children: true
 # 連結
 
 
+
+
 ## The Debian Administrator's Handbook
 
 * [The Debian Administrator's Handbook (Debian管理者手冊)](https://debian-handbook.info/) ([英文版](https://debian-handbook.info/browse/stable/)) ([中文版](https://debian-handbook.info/browse/zh-TW/stable/))
+
 
 
 
@@ -20,6 +23,40 @@ has_children: true
 
 * [Debian 新維護人員手冊](https://www.debian.org/doc/manuals/maint-guide/index.zh-tw.html) / [章 6. 構建套件](https://www.debian.org/doc/manuals/maint-guide/build.zh-tw.html)
 * [用Open Source工具開發軟體: 新軟體開發關念](http://www.study-area.org/cyril/opentools/opentools/book1.html) / [deb檔的包裝](http://www.study-area.org/cyril/opentools/opentools/x1447.html)
+
+
+
+
+## Debian Wiki
+
+* [Packaging](https://wiki.debian.org/Packaging)
+* Packaging / [Intro](https://wiki.debian.org/Packaging/Intro)
+* [BuildingTutorial](https://wiki.debian.org/BuildingTutorial)
+* [SimplePackagingTutorial](https://wiki.debian.org/SimplePackagingTutorial)
+
+
+
+
+## debian-packaging-tutorial
+
+``` sh
+sudo apt-get install packaging-tutorial
+```
+
+* [SimplePackagingTutorial](https://wiki.debian.org/SimplePackagingTutorial)
+* [debian-packaging-tutorial](https://www.debian.org/doc/manuals/packaging-tutorial/)
+* [https://salsa.debian.org/debian/packaging-tutorial](https://salsa.debian.org/debian/packaging-tutorial)
+
+
+> Contribute to debian-packaging-tutorial
+
+Contribute:
+
+* apt-get source packaging-tutorial
+* debcheckout packaging-tutorial
+* git clone https://salsa.debian.org/debian/packaging-tutorial.git
+* [https://salsa.debian.org/debian/packaging-tutorial](https://salsa.debian.org/debian/packaging-tutorial)
+* Open bugs: [bugs.debian.org/src:packaging-tutorial](bugs.debian.org/src:packaging-tutorial)
 
 
 
