@@ -37,7 +37,7 @@ has_children: true
 
 
 
-## debian-packaging-tutorial
+## Debian Packaging Tutorial
 
 ``` sh
 sudo apt-get install packaging-tutorial
@@ -61,7 +61,7 @@ Contribute:
 
 
 
-## Deb Packaging / Case
+## Debian Packaging / Case
 
 * GitHub / Nitrux / [nitrux-base-files](https://github.com/Nitrux/nitrux-base-files/blob/legacy/gh-build.sh)
 
