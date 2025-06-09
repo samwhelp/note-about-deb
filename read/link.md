@@ -4,6 +4,7 @@ nav_order: 99
 has_children: true
 ---
 
+
 # 連結
 
 
@@ -19,6 +20,44 @@ has_children: true
 
 * [Debian 新維護人員手冊](https://www.debian.org/doc/manuals/maint-guide/index.zh-tw.html) / [章 6. 構建套件](https://www.debian.org/doc/manuals/maint-guide/build.zh-tw.html)
 * [用Open Source工具開發軟體: 新軟體開發關念](http://www.study-area.org/cyril/opentools/opentools/book1.html) / [deb檔的包裝](http://www.study-area.org/cyril/opentools/opentools/x1447.html)
+
+
+
+
+## Deb Packaging / Case
+
+* GitHub / Nitrux / [nitrux-base-files](https://github.com/Nitrux/nitrux-base-files/blob/legacy/gh-build.sh)
+
+
+
+
+## Changelog
+
+* [man 5 deb-changelog](https://manpages.debian.org/stable/dpkg-dev/deb-changelog.5.en.html)
+* [man 1 debchange](https://manpages.debian.org/stable/devscripts/debchange.1.en.html)
+
+
+> changelog date format
+
+run
+
+``` sh
+date -R
+```
+
+run
+
+
+``` sh
+date -d '2025-06-09 07:45:46' -R
+```
+
+
+> edit changelog
+
+``` sh
+debchange
+```
 
 
 
